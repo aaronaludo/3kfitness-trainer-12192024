@@ -1,0 +1,377 @@
+{
+    "onboardingScreen": {
+        "title1": "अपने कोच से मिलें और\nअपनी यात्रा शुरू करें",
+        "title2": "फिट रहने के लिए एक कसरत और\nआहार योजना बनाएं",
+        "title3": "कोई और नकारात्मक नहीं\nशरीर के विचार।",
+        "skip": "छोड़ें",
+        "next": "अगला",
+        "signin": "साइन इन करें",
+        "exitText": "बाहर निकलने के लिए एक बार फिर से दबाएं"
+    },
+    "signinScreen": {
+        "header": "साइन इन करें",
+        "email": "ईमेल आईडी",
+        "password": "पासवर्ड",
+        "forgetPwd": "पासवर्ड भूल गए?",
+        "signin": "साइन इन करें",
+        "connect": "या इसके साथ जुड़ें",
+        "dontAccount": "खाता नहीं है?",
+        "signup": "साइन अप करें",
+        "exitText": "बाहर निकलने के लिए एक बार फिर से दबाएं"
+    },
+    "signupScreen": {
+        "header": "साइन अप करें",
+        "name": "पूरा नाम",
+        "email": "ईमेल आईडी",
+        "phone": "फोन नंबर",
+        "password": "पासवर्ड",
+        "signup": "साइन अप करें",
+        "connect": "या इसके साथ जुड़ें",
+        "alreadyAccount": "पहले से खाता है?",
+        "signin": "साइन इन करें"
+    },
+    "forgotPassword": {
+        "header": "पासवर्ड भूल गए",
+        "description": "कृपया अपने खाते से संबद्ध ईमेल आईडी दर्ज करें।",
+        "email": "ईमेल आईडी",
+        "continue": "जारी रखना"
+    },
+    "otpVerificationScreen": {
+        "header": "ओटीपी सत्यापन",
+        "description1": "कृपया यहां सत्यापन कोड दर्ज करें, हमने आपको अभी-अभी आपकी ईमेल आईडी पर भेजा है।",
+        "description2": "कृपया यहां सत्यापन कोड दर्ज करें, हमने आपको अभी भेजा है",
+        "verify": "सत्यापित करना",
+        "resend": "पुन: भेजें",
+        "wait": "कृपया प्रतीक्षा करें"
+    },
+    "newPasswordScreen": {
+        "header": "नया पासवर्ड",
+        "newPwd": "नया पासवर्ड दर्ज करें",
+        "confirmPwd": "पासवर्ड की पुष्टि कीजिये",
+        "submit": "प्रस्तुत करना"
+    },
+    "genderSelectionScreen": {
+        "getInfoHeader": "आप अपने बारे में बताओ !",
+        "getInfoDescription": "आपको बेहतर अनुभव देने के लिए हमें आपका लिंग जानना होगा",
+        "next": "अगला"
+    },
+    "levelSelectionScreen": {
+        "getInfoHeader": "अपना फिटनेस स्तर चुनें",
+        "getInfoDescription": "इससे हमें आपकी वैयक्तिकृत योजना बनाने में मदद मिलती है जिसे आप बाद में कभी भी बदल सकते हैं",
+        "age": "आयु",
+        "weight": "वज़न",
+        "height": "कद",
+        "next": "अगला"
+    },
+    "goalSelectionScreen": {
+        "getInfoHeader": "अपना लक्ष्य चुनें",
+        "getInfoDescription": "इससे हमें आपकी वैयक्तिकृत योजना बनाने में मदद मिलती है जिसे आप बाद में कभी भी बदल सकते हैं",
+        "next": "अगला",
+        "wait": "कृपया प्रतीक्षा करें"
+    },
+    "bottomTabsScreen": {
+        "home": "घर",
+        "workout": "कसरत",
+        "insight": "अंतर्दृष्टि",
+        "diet": "खुराक",
+        "profile": "प्रोफ़ाइल",
+        "exitText": "बाहर निकलने के लिए एक बार फिर से दबाएं"
+    },
+    "homeScreen": {
+        "userWelcome": "सुबह बख़ैर",
+        "joinNow": "अब सम्मिलित हों",
+        "premium1": "शुरुआत",
+        "premium3": "/महीना",
+        "today": "आज",
+        "sessionStart": "आगामी सत्र प्रारंभ",
+        "todayPlanTitle": "आज के लिए आपकी योजना",
+        "personalTrainerTitle": "व्यक्तिगत प्रशिक्षक",
+        "trainer1Name": "कैटिन मान",
+        "popularWorkoutTitle": "लोकप्रिय कसरत कार्यक्रम",
+        "motivationalVideoTitle": "मोटिवेशनल वीडियो",
+        "appointmentTitle": "इस कसरत को शुरू करने से पहले कृपया ट्रेनर से सलाह लें।",
+        "bookAppintment": "निर्धारित तारीख बुक करना",
+        "skip": "छोड़ें"
+    },
+    "scheduleWorkoutAndDiet": {
+        "header": "पंचांग",
+        "workout": "कसरत करना",
+        "totalWorkouts": "आज आपके पास 5 कसरत हैं।",
+        "diet": "खुराक",
+        "totalMealPlans": "आज आपके पास है 5 टाइम मील प्लान"
+    },
+    "notificationScreen": {
+        "header": "अधिसूचना",
+        "new": "नया",
+        "yesterday": "कल",
+        "noNotification": "कोई नई सूचना नहीं",
+        "dismissed": "ख़ारिज"
+    },
+    "trainerProfileScreen": {
+        "header": "ट्रेनर प्रोफाइल",
+        "work": "काम",
+        "speak": "बोलना",
+        "qualification": "योग्यता",
+        "month": "महीना",
+        "book": "बुक करना",
+        "reviews": "समीक्षा",
+        "upcomingSessionTitle": "आगामी सत्र"
+    },
+    "subscriptionDetailScreen": {
+        "header": "सदस्यता विवरण",
+        "monthly": "महीने के",
+        "quarterly": "त्रैमासिक",
+        "annual": "सालाना",
+        "includes": "शामिल",
+        "requirement": "मांग",
+        "equipment": "उपकरण",
+        "space": "अंतरिक्ष",
+        "proceed": "आगे बढ़ना"
+    },
+    "chooseTimeScreen": {
+        "header": "अपना समय चुनें",
+        "selectDate": "तारीख़ चुनें",
+        "selectTime": "समय चुनें",
+        "morning": "सुबह",
+        "evening": "शाम",
+        "confirm": "पक्का करना"
+    },
+    "selectPaymentMethodScreen": {
+        "header": "भुगतान का तरीका",
+        "cardHolderNameTitle": "कार्डधारक का नाम",
+        "cardNumberTitle": "कार्ड नंबर",
+        "dateFormate": "डीडी/एमएम/वर्ष",
+        "cvvTitle": "सी वी वी कोड",
+        "payNow": "अब भुगतान करें"
+    },
+    "successPaymentScreen": {
+        "welcomeText": "फिटनेस परिवार में आपका स्वागत है!\nहमें खुशी है कि आपने फिट होने का फैसला किया है।",
+        "confirmation": "भुगतान की पुष्टि",
+        "confirmationDetail": "आपको एक पुष्टिकरण ईमेल भेज दिया गया है। हमारे फिटनेस विशेषज्ञ आपसे संक्षिप्त संपर्क करेंगे",
+        "dateAndTimeTitle": "दिनांक समय",
+        "subscription": "मासिक सदस्यता",
+        "backToHome": "मुखपृष्ठ पर वापस"
+    },
+    "workoutScreen": {
+        "header": "कसरत",
+        "todayVideo": "आज का वर्कआउट वीडियो",
+        "workoutCategoryTitle": "कसरत श्रेणियाँ",
+        "workoutTitle": "कसरत करना",
+        "userProgram": "आपका कार्यक्रम",
+        "trainer": "ट्रेनर",
+        "nextWorkoutTitle": "नई कसरत वीडियो",
+        "appointmentTitle": "इस कसरत को शुरू करने से पहले कृपया ट्रेनर से सलाह लें।",
+        "bookAppintment": "निर्धारित तारीख बुक करना",
+        "skip": "छोड़ें"
+    },
+    "workoutCategoryDetailScreen": {
+        "appointmentTitle": "इस कसरत को शुरू करने से पहले कृपया ट्रेनर से सलाह लें।",
+        "bookAppintment": "निर्धारित तारीख बुक करना",
+        "skip": "छोड़ें"
+    },
+    "videosScreen": {
+        "header": "फुल बॉडी ट्रैनिंग"
+    },
+    "userProgramScreen": {
+        "calories": "कैलोरी",
+        "equpiment": "उपकरण",
+        "netDuration": "शुद्ध अवधि",
+        "min": "मिनट",
+        "benefits": "फ़ायदे",
+        "sessionDetails": "सत्र विवरण",
+        "begin": "शुरू करना",
+        "upcomingVideo": "आगामी वीडियो",
+        "addInFav": "पसंदीदा में जोड़ा गया",
+        "removeFromFav": "पसंदीदा से हटाया गया"
+    },
+    "trainersScreen": {
+        "header": "प्रशिक्षकों",
+        "trainer1Name": "जेम्स जॉय",
+        "trainer1Speciality": "योग विशेषज्ञ",
+        "trainer2Name": "कैटिन मार्किन",
+        "trainer2Speciality": "शक्ति और कंडीशनिंग कोच",
+        "trainer3Name": "डेविड स्कॉट",
+        "trainer3Speciality": "खाद्य आहार विशेषज्ञ",
+        "trainer4Name": "केट पटेल",
+        "trainer4Speciality": "हितो",
+        "trainer5Name": "रोहित जोय",
+        "trainer5Speciality": "योग विशेषज्ञ",
+        "trainer6Name": "जेम्स जॉय",
+        "trainer6Speciality": "शक्ति और कंडीशनिंग कोच",
+        "trainer7Name": "प्रिति जोय",
+        "trainer7Speciality": "शक्ति और कंडीशनिंग कोच",
+        "trainer8Name": "माधुरी पटेल",
+        "trainer8Speciality": "शक्ति और कंडीशनिंग कोच",
+        "years": "वर्षों",
+        "experiance": "अनुभव"
+    },
+    "insightScreen": {
+        "header": "अंतर्दृष्टि",
+        "workout": "कसरत",
+        "sleep": "सोना",
+        "diet": "खुराक",
+        "water": "पानी",
+        "calories": "कैलोरी",
+        "burn": "जलाना",
+        "target": "लक्ष्य",
+        "left": "बाएं",
+        "totalWorkout": "कुल कसरत",
+        "netDuration": "शुद्ध अवधि",
+        "caloriesBurnTitle": "कैलोरी बर्न सैटैटिस्टिक्स",
+        "daily": "रोज",
+        "week": "सप्ताह",
+        "month": "महीना",
+        "minute": "मिनट",
+        "kcal": "किलो कैलोरी",
+        "woakUp": "वोक अप",
+        "wentToSleep": "सोने जाना",
+        "reduced": "कम किया हुआ",
+        "sleepTimeCompare": "पिछले सप्ताह की तुलना में सोने का समय",
+        "sleepDuration": "कुल नींद की अवधि",
+        "sleepSatatistics": "नींद सांख्यिकी",
+        "deep": "गहरा",
+        "awake": "जागना",
+        "taken": "ले लिया",
+        "protein": "प्रोटीन",
+        "fat": "मोटा",
+        "carb": "कार्ब",
+        "drunk": "पिया हुआ",
+        "addDrink": "पेय जोड़ें",
+        "waterConsume": "पानी की खपत के आंकड़े",
+        "waterConsumpation": "पानी की खपत (एमएल)"
+    },
+    "dietScreen": {
+        "header": "खुराक",
+        "todayPlanTitle": "आज का डाइट प्लान",
+        "dietCategoryTitle": "आहार श्रेणियां",
+        "seeAll": "सभी देखें",
+        "favDietTitle": "पसंदीदा आहार",
+        "addInFav": "पसंदीदा में जोड़ा गया",
+        "removeFromFav": "पसंदीदा से हटाया गया"
+    },
+    "dietCategoriesScreen": {
+        "header": "आहार श्रेणियां",
+        "addInFav": "पसंदीदा में जोड़ा गया",
+        "removeFromFav": "पसंदीदा से हटाया गया"
+    },
+    "mealCategoryVideoScreen": {
+        "protein": "प्रोटीन",
+        "fat": "मोटा",
+        "calories": "कैलोरी",
+        "ingrediants": "सामग्री",
+        "recipe": "व्यंजन विधि",
+        "readMore": "अधिक पढ़ें",
+        "readLess": "कम पढ़ें",
+        "addInFav": "पसंदीदा में जोड़ा गया",
+        "removeFromFav": "पसंदीदा से हटाया गया"
+    },
+    "dietCategoryDetailScreen": {
+        "day": "दिन",
+        "plan": "योजना",
+        "totalDaysPlanTitle": "शाकाहारी आहार 10 दिन की योजना",
+        "dayBig": "दिन"
+    },
+    "dietDetailScreen": {
+        "day": "दिन",
+        "protein": "प्रोटीन",
+        "fat": "मोटा",
+        "calories": "कैलोरी"
+    },
+    "profileScreen": {
+        "header": "प्रोफ़ाइल",
+        "editProfile": "प्रोफ़ाइल संपादित करें",
+        "favourite": "पसंदीदा",
+        "progressReport": "प्रगति रिपोर्ट",
+        "notification": "अधिसूचना",
+        "privacyPolicy": "गोपनीयता नीति",
+        "downloadVideo": "वीडियो डाउनलोड करें",
+        "subscriptionPlan": "सदस्यता योजना",
+        "about": "के बारे में",
+        "help": "मदद करना",
+        "languages": "बोली",
+        "logout": "लॉग आउट",
+        "cancel": "रद्द करना",
+        "logoutInfo": "क्या आप लॉग आउट करना चाहते हैं?"
+    },
+    "progressReportScreen": {
+        "header": "प्रगति रिपोर्ट",
+        "completedGoal": "अपना लक्ष्य पूरा किया"
+    },
+    "editProfileScreen": {
+        "header": "प्रोफ़ाइल संपादित करें",
+        "name": "नाम",
+        "email": "ईमेल आईडी",
+        "phoneNo": "फोन नंबर",
+        "goal": "स्वास्थ्य लक्ष्य",
+        "update": "अद्यतन",
+        "sheetTitle": "प्रोफाइल फोटो बदलें",
+        "cameraOption": "कैमरे से चुनें",
+        "galleryOption": "गैलरी से चयन करो",
+        "remove": "छवि हटाएं"
+    },
+    "privacyPolicyScreen": {
+        "header": "गोपनीयता नीति",
+        "notification": "अधिसूचना",
+        "applicationUpdate": "आवेदन अद्यतन",
+        "themes": "विषयों",
+        "darkMode": "डार्क मोड",
+        "lightMode": "लाइट मोड"
+    },
+    "aboutScreen": {
+        "header": "बारे में",
+        "terms": "नियम व शर्तें",
+        "dataPolicy": "डेटा नीति"
+    },
+    "favoriteScreen": {
+        "header": "पसंदीदा",
+        "nothingInFav": "पसंदीदा में कुछ नहीं",
+        "removeMessage": "आइटम पसंदीदा से निकाला गया."
+    },
+    "downloadsScreen": {
+        "header": "डाउनलोड",
+        "nothingInDown": "डाउनलोड में कुछ नहीं",
+        "removeMessage": "आइटम को डाउनलोड से हटा दिया गया।"
+    },
+    "helpScreen": {
+        "header": "मदद करना",
+        "contact": "संपर्क में रहो",
+        "helpDescription": "बेझिझक हमें लाइन नीचे छोड़ दें",
+        "enterName": "अपना नाम दर्ज करें",
+        "enterEmail": "अपनी ईमेल आईडी दर्ज करें",
+        "enterMessage": "यहां अपना संदेश लिखें",
+        "send": "भेजना",
+        "submitted": "प्रस्तुत",
+        "submissionSuccess": "आपका अनुरोध सफलतापूर्वक सबमिट किया गया, हम आपसे संपर्क करेंगे।",
+        "ok": "ठीक"
+    },
+    "userSubscriptionScreen": {
+        "header": "सदस्यता विवरण",
+        "monthly": "महीने के",
+        "quarterly": "त्रैमासिक",
+        "annual": "सालाना",
+        "includes": "शामिल",
+        "proceed": "आगे बढ़ना"
+    },
+    "languagesScreen": {
+        "header": "बोली",
+        "english": "English",
+        "hindi": "हिन्दी",
+        "indonesian": "Indonesian",
+        "chienese": "中国人",
+        "arabic": "عربي"
+    },
+    "calender": {
+        "jan": "जनवरी",
+        "feb": "फ़रवरी",
+        "mar": "मार्च",
+        "apr": "अप्रैल",
+        "may": "मई",
+        "jun": "जून",
+        "jul": "जुलाई",
+        "aug": "अगस्त",
+        "sep": "सितंबर",
+        "oct": "अक्टूबर",
+        "nov": "नवम्बर",
+        "dec": "दिसम्बर"
+    }
+}

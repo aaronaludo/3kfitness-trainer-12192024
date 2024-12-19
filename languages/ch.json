@@ -1,0 +1,376 @@
+{
+    "onboardingScreen": {
+        "title1": "与您的教练见面并\n开始您的旅程",
+        "title2": "制定锻炼和\n减肥计划以保持健康",
+        "title3": "不再有消极\n身体的想法。",
+        "skip": "跳过",
+        "next": "下一个",
+        "signin": "登入",
+        "exitText": "再次按返回退出"
+    },
+    "signinScreen": {
+        "header": "登入",
+        "email": "电子邮件ID",
+        "password": "密码",
+        "forgetPwd": "忘记密码？",
+        "signin": "登入",
+        "connect": "或连接",
+        "dontAccount": "没有帐户？",
+        "signup": "报名",
+        "exitText": "再次按返回退出"
+    },
+    "signupScreen": {
+        "header": "报名",
+        "name": "全名",
+        "email": "电子邮件ID",
+        "phone": "电话号码",
+        "password": "密码",
+        "signup": "报名",
+        "connect": "或连接",
+        "alreadyAccount": "已经有账号了？",
+        "signin": "登入"
+    },
+    "forgotPassword": {
+        "header": "忘记密码",
+        "description": "请输入与您的帐户关联的电子邮件 ID。",
+        "email": "电子邮件ID",
+        "continue": "继续"
+    },
+    "otpVerificationScreen": {
+        "header": "一次性密码验证",
+        "description1": "请在此处输入我们刚刚通过您的电子邮件 ID 发送给您的验证码。",
+        "description2": "请在此处输入我们刚刚发送给您的验证码",
+        "verify": "核实",
+        "resend": "重发",
+        "wait": "请稍等"
+    },
+    "newPasswordScreen": {
+        "header": "新密码",
+        "newPwd": "输入新密码",
+        "confirmPwd": "确认密码",
+        "submit": "提交"
+    },
+    "genderSelectionScreen": {
+        "getInfoHeader": "向我们介绍你自己 ！",
+        "getInfoDescription": "为了给你更好的体验我们需要知道你的性别",
+        "next": "下一个"
+    },
+    "levelSelectionScreen": {
+        "getInfoHeader": "选择您的健身水平",
+        "getInfoDescription": "这有助于我们创建您的个性化计划，您以后可以随时更改",
+        "age": "年龄",
+        "weight": "重量",
+        "height": "高度",
+        "next": "下一个"
+    },
+    "goalSelectionScreen": {
+        "getInfoHeader": "选择你的目标",
+        "getInfoDescription": "这有助于我们创建您的个性化计划，您以后可以随时更改",
+        "next": "下一个",
+        "wait": "请稍等"
+    },
+    "bottomTabsScreen": {
+        "home": "家",
+        "workout": "锻炼",
+        "insight": "洞察力",
+        "diet": "饮食",
+        "profile": "轮廓",
+        "exitText": "再次按返回退出"
+    },
+    "homeScreen": {
+        "userWelcome": "早上好",
+        "joinNow": "现在加入",
+        "premium1": "开始",
+        "premium3": "/月",
+        "today": "今天",
+        "sessionStart": "即将开始的会议",
+        "todayPlanTitle": "你今天的计划",
+        "personalTrainerTitle": "私人教练",
+        "popularWorkoutTitle": "流行的锻炼计划",
+        "motivationalVideoTitle": "励志视频",
+        "appointmentTitle": "在开始这项锻炼之前，请听取教练的建议。",
+        "bookAppintment": "预约",
+        "skip": "跳过"
+    },
+    "scheduleWorkoutAndDiet": {
+        "header": "日历",
+        "workout": "锻炼",
+        "totalWorkouts": "今天你有5次锻炼。",
+        "diet": "饮食",
+        "totalMealPlans": "今天你有 5 次膳食计划"
+    },
+    "notificationScreen": {
+        "header": "通知",
+        "new": "新的",
+        "yesterday": "昨天",
+        "noNotification": "没有新通知",
+        "dismissed": "被解雇"
+    },
+    "trainerProfileScreen": {
+        "header": "培训师简介",
+        "work": "工作",
+        "speak": "说话",
+        "qualification": "资质",
+        "month": "月",
+        "book": "书",
+        "reviews": "评论",
+        "upcomingSessionTitle": "即将举行的会议"
+    },
+    "subscriptionDetailScreen": {
+        "header": "订阅详情",
+        "monthly": "月刊",
+        "quarterly": "季刊",
+        "annual": "年度的",
+        "includes": "包括",
+        "requirement": "要求",
+        "equipment": "设备",
+        "space": "空间",
+        "proceed": "继续"
+    },
+    "chooseTimeScreen": {
+        "header": "选择你的时间",
+        "selectDate": "选择日期",
+        "selectTime": "选择时间",
+        "morning": "早晨",
+        "evening": "晚上",
+        "confirm": "确认"
+    },
+    "selectPaymentMethodScreen": {
+        "header": "付款方式",
+        "cardHolderNameTitle": "持卡人姓名",
+        "cardNumberTitle": "卡号",
+        "dateFormate": "日/月/年",
+        "cvvTitle": "CVV 代码",
+        "payNow": "现在付款"
+    },
+    "successPaymentScreen": {
+        "welcomeText": "欢迎加入健身大家庭！\n我们很高兴您决定健身。",
+        "confirmation": "付款确认",
+        "confirmationDetail": "确认电子邮件已发送给您。我们的健身专家会尽快与您联系",
+        "dateAndTimeTitle": "约会时间",
+        "subscription": "每月订阅",
+        "backToHome": "返回首页"
+    },
+    "workoutScreen": {
+        "header": "锻炼",
+        "todayVideo": "今天锻炼视频",
+        "workoutCategoryTitle": "锻炼类别",
+        "workoutTitle": "锻炼",
+        "userProgram": "你的程序",
+        "trainer": "培训师",
+        "nextWorkoutTitle": "新的锻炼视频",
+        "appointmentTitle": "在开始这项锻炼之前，请听取教练的建议。",
+        "bookAppintment": "预约",
+        "skip": "跳过"
+    },
+    "workoutCategoryDetailScreen": {
+        "appointmentTitle": "在开始这项锻炼之前，请听取教练的建议.",
+        "bookAppintment": "预约",
+        "skip": "跳过"
+    },
+    "videosScreen": {
+        "header": "全身训练"
+    },
+    "userProgramScreen": {
+        "calories": "卡路里",
+        "equpiment": "设备",
+        "netDuration": "净持续时间",
+        "min": "分钟",
+        "benefits": "好处",
+        "sessionDetails": "会话详情",
+        "begin": "开始",
+        "upcomingVideo": "即将播出的视频",
+        "addInFav": "添加到收藏夹",
+        "removeFromFav": "从收藏夹中删除"
+    },
+    "trainersScreen": {
+        "header": "培训师",
+        "trainer1Name": "詹姆斯·乔伊",
+        "trainer1Speciality": "瑜伽专家",
+        "trainer2Name": "马克的卡片",
+        "trainer2Speciality": "体能教练",
+        "trainer3Name": "德维苏格兰人",
+        "trainer3Speciality": "食品营养师",
+        "trainer4Name": "和帕特尔",
+        "trainer4Speciality": "希特",
+        "trainer5Name": "罗希特喜悦",
+        "trainer5Speciality": "瑜伽专家",
+        "trainer6Name": "詹姆斯·乔伊",
+        "trainer6Speciality": "体能教练",
+        "trainer7Name": "快来欢乐",
+        "trainer7Speciality": "体能教练",
+        "trainer8Name": "马杜里·帕特尔",
+        "trainer8Speciality": "体能教练",
+        "years": "年",
+        "experiance": "经验"
+    },
+    "insightScreen": {
+        "header": "洞察力",
+        "workout": "锻炼",
+        "sleep": "睡觉",
+        "diet": "饮食",
+        "water": "水",
+        "calories": "卡路里",
+        "burn": "烧伤",
+        "target": "目标",
+        "left": "剩下",
+        "totalWorkout": "总锻炼",
+        "netDuration": "净持续时间",
+        "caloriesBurnTitle": "卡路里燃烧统计",
+        "daily": "日常的",
+        "week": "星期",
+        "month": "月",
+        "minute": "分钟",
+        "kcal": "千卡",
+        "woakUp": "醒来",
+        "wentToSleep": "去睡觉了",
+        "reduced": "减少",
+        "sleepTimeCompare": "与上周相比的睡眠时间",
+        "sleepDuration": "总睡眠时间",
+        "sleepSatatistics": "睡眠统计",
+        "deep": "深的",
+        "awake": "苏醒",
+        "taken": "采取",
+        "protein": "蛋白质",
+        "fat": "胖的",
+        "carb": "碳水化合物",
+        "drunk": "醉",
+        "addDrink": "添加饮料",
+        "waterConsume": "用水量统计",
+        "waterConsumpation": "耗水量（毫升）"
+    },
+    "dietScreen": {
+        "header": "饮食",
+        "todayPlanTitle": "今天的饮食计划",
+        "dietCategoryTitle": "饮食类别",
+        "seeAll": "看到所有",
+        "favDietTitle": "最喜欢的饮食",
+        "addInFav": "添加到收藏夹",
+        "removeFromFav": "从收藏夹中删除"
+    },
+    "dietCategoriesScreen": {
+        "header": "饮食类别",
+        "addInFav": "添加到收藏夹",
+        "removeFromFav": "从收藏夹中删除"
+    },
+    "mealCategoryVideoScreen": {
+        "protein": "蛋白质",
+        "fat": "胖的",
+        "calories": "卡路里",
+        "ingrediants": "原料",
+        "recipe": "食谱",
+        "readMore": "阅读更多",
+        "readLess": "少读",
+        "addInFav": "添加到收藏夹",
+        "removeFromFav": "从收藏夹中删除"
+    },
+    "dietCategoryDetailScreen": {
+        "day": "天",
+        "plan": "计划",
+        "totalDaysPlanTitle": "素食饮食 10 天计划",
+        "dayBig": "天"
+    },
+    "dietDetailScreen": {
+        "day": "天",
+        "protein": "蛋白质",
+        "fat": "胖的",
+        "calories": "卡路里"
+    },
+    "profileScreen": {
+        "header": "轮廓",
+        "editProfile": "编辑个人资料",
+        "favourite": "最喜欢的",
+        "progressReport": "进度报告",
+        "notification": "通知",
+        "privacyPolicy": "隐私政策",
+        "downloadVideo": "下载视频",
+        "subscriptionPlan": "订阅计划",
+        "about": "关于",
+        "help": "帮助",
+        "languages": "语言",
+        "logout": "登出",
+        "cancel": "取消",
+        "logoutInfo": "您确定要退出吗？"
+    },
+    "progressReportScreen": {
+        "header": "进度报告",
+        "completedGoal": "完成了你的目标"
+    },
+    "editProfileScreen": {
+        "header": "编辑个人资料",
+        "name": "姓名",
+        "email": "电子邮件ID",
+        "phoneNo": "电话号码",
+        "goal": "健身目标",
+        "update": "更新",
+        "sheetTitle": "更改个人资料照片",
+        "cameraOption": "从相机中选择",
+        "galleryOption": "从图库中选择",
+        "remove": "移除图片"
+    },
+    "privacyPolicyScreen": {
+        "header": "隐私政策",
+        "notification": "通知",
+        "applicationUpdate": "应用程序更新",
+        "themes": "主题",
+        "darkMode": "黑暗模式",
+        "lightMode": "灯光模式"
+    },
+    "aboutScreen": {
+        "header": "关于",
+        "terms": "附带条约",
+        "dataPolicy": "数据政策"
+    },
+    "favoriteScreen": {
+        "header": "最喜欢的",
+        "nothingInFav": "收藏夹中没有任何内容",
+        "removeMessage": "从收藏夹中删除的项目。"
+    },
+    "downloadsScreen": {
+        "header": "下载",
+        "nothingInDown": "下载中没有任何内容",
+        "removeMessage": "从下载中删除的项目。"
+    },
+    "helpScreen": {
+        "header": "帮助",
+        "contact": "保持联系",
+        "helpDescription": "随时在下面给我们留言",
+        "enterName": "输入你的名字",
+        "enterEmail": "输入您的电子邮件 ID",
+        "enterMessage": "在这里写下你的信息",
+        "send": "发送",
+        "submitted": "已提交",
+        "submissionSuccess": "您的请求提交成功，我们会尽快回复您。",
+        "ok": "好的"
+    },
+    "userSubscriptionScreen": {
+        "header": "订阅详情",
+        "monthly": "月刊",
+        "quarterly": "季刊",
+        "annual": "年度的",
+        "includes": "包括",
+        "proceed": "继续"
+    },
+    "languagesScreen": {
+        "header": "语言",
+        "english": "English",
+        "hindi": "हिन्दी",
+        "indonesian": "Indonesian",
+        "chienese": "中国人",
+        "arabic": "عربي"
+    },
+    "calender": {
+        "jan": "简",
+        "feb": "二月",
+        "mar": "三月",
+        "apr": "四月",
+        "may": "可能",
+        "jun": "君",
+        "jul": "七月",
+        "aug": "八月",
+        "sep": "九月",
+        "oct": "十月",
+        "nov": "十一月",
+        "dec": "十二月"
+    }
+}

@@ -1,0 +1,376 @@
+{
+    "onboardingScreen": {
+        "title1": "Temui pelatih Anda &\nmulai perjalanan Anda",
+        "title2": "Buat rencana latihan &\ndieat agar tetap bugar",
+        "title3": "Tidak ada lagi pikiran yang nagatif\nTubuh.",
+        "skip": "Melewati",
+        "next": "Lanjut",
+        "signin": "Masuk",
+        "exitText": "Tekan Kembali Sekali Lagi untuk Keluar"
+    },
+    "signinScreen": {
+        "header": "Masuk",
+        "email": "ID Email",
+        "password": "Kata sandi",
+        "forgetPwd": "Tidak ingat kata sandi?",
+        "signin": "Masuk",
+        "connect": "Atau Terhubung dengan",
+        "dontAccount": "Tidak punya akun?",
+        "signup": "Daftar",
+        "exitText": "Tekan Kembali Sekali Lagi untuk Keluar"
+    },
+    "signupScreen": {
+        "header": "Daftar",
+        "name": "Nama lengkap",
+        "email": "ID Email",
+        "phone": "No Telepon",
+        "password": "Kata sandi",
+        "signup": "Daftar",
+        "connect": "Atau Terhubung dengan",
+        "alreadyAccount": "Sudah punya akun?",
+        "signin": "masuk"
+    },
+    "forgotPassword": {
+        "header": "Tidak ingat kata sandi",
+        "description": "Silakan masukkan id email yang terkait dengan akun Anda.",
+        "email": "ID Email",
+        "continue": "Melanjutkan"
+    },
+    "otpVerificationScreen": {
+        "header": "Verifikasi OTP",
+        "description1": "Silakan masukkan kode verifikasi di sini yang baru saja kami kirimkan pada id email Anda.",
+        "description2": "Silakan masukkan kode verifikasi di sini yang baru saja kami kirimkan kepada Anda",
+        "verify": "Memeriksa",
+        "resend": "Kirim ulang",
+        "wait": "Harap tunggu"
+    },
+    "newPasswordScreen": {
+        "header": "Kata sandi baru",
+        "newPwd": "Masukan kata sandi baru",
+        "confirmPwd": "Konfirmasi sandi",
+        "submit": "Kirim"
+    },
+    "genderSelectionScreen": {
+        "getInfoHeader": "Ceritakan tentang diri Anda!",
+        "getInfoDescription": "Untuk memberi Anda pengalaman yang lebih baik, kami perlu mengetahui jenis kelamin Anda",
+        "next": "Lanjut"
+    },
+    "levelSelectionScreen": {
+        "getInfoHeader": "Pilih tingkat kebugaran Anda",
+        "getInfoDescription": "Ini membantu kami membuat paket pribadi Anda, Anda selalu dapat mengubahnya nanti",
+        "age": "Usia",
+        "weight": "Bobot",
+        "height": "Tinggi",
+        "next": "Lanjut"
+    },
+    "goalSelectionScreen": {
+        "getInfoHeader": "Pilih tujuan Anda",
+        "getInfoDescription": "Ini membantu kami membuat paket pribadi Anda, Anda selalu dapat mengubahnya nanti",
+        "next": "Lanjut",
+        "wait": "Mohon tunggu"
+    },
+    "bottomTabsScreen": {
+        "home": "Rumah",
+        "workout": "Bekerja",
+        "insight": "Wawasan",
+        "diet": "Diet",
+        "profile": "Profil",
+        "exitText": "Tekan Kembali Sekali Lagi untuk Keluar"
+    },
+    "homeScreen": {
+        "userWelcome": "Selamat pagi",
+        "joinNow": "Bergabung sekarang",
+        "premium1": "Mulai",
+        "premium3": "/bulan",
+        "today": "Hari ini",
+        "sessionStart": "Sesi yang akan datang dimulai di",
+        "todayPlanTitle": "Rencanamu hari ini",
+        "personalTrainerTitle": "Pelatih pribadi",
+        "popularWorkoutTitle": "Program latihan populer",
+        "motivationalVideoTitle": "Video Motivasi",
+        "appointmentTitle": "Sebelum Anda memulai latihan ini, mohon ikuti saran dari pelatih.",
+        "bookAppintment": "Janji temu",
+        "skip": "melewati"
+    },
+    "scheduleWorkoutAndDiet": {
+        "header": "Kalender",
+        "workout": "Bekerja",
+        "totalWorkouts": "Hari ini Anda memiliki 5 latihan.",
+        "diet": "Diet",
+        "totalMealPlans": "Hari ini Anda memiliki rencana makan 5 kali"
+    },
+    "notificationScreen": {
+        "header": "Pemberitahuan",
+        "new": "Baru",
+        "yesterday": "Kemarin",
+        "noNotification": "Tidak ada pemberitahuan baru",
+        "dismissed": "dibubarkan"
+    },
+    "trainerProfileScreen": {
+        "header": "Profil pelatih",
+        "work": "Kerja",
+        "speak": "Berbicara",
+        "qualification": "Kualifikasi",
+        "month": "bulan",
+        "book": "Buku",
+        "reviews": "Ulasan",
+        "upcomingSessionTitle": "Sesi Mendatang"
+    },
+    "subscriptionDetailScreen": {
+        "header": "Rincian berlangganan",
+        "monthly": "Bulanan",
+        "quarterly": "Triwulanan",
+        "annual": "Tahunan",
+        "includes": "Termasuk",
+        "requirement": "Persyaratan",
+        "equipment": "Peralatan",
+        "space": "Ruang angkasa",
+        "proceed": "Melanjutkan"
+    },
+    "chooseTimeScreen": {
+        "header": "Pilih waktu Anda",
+        "selectDate": "Pilih tanggal",
+        "selectTime": "Pilih Waktu",
+        "morning": "Pagi",
+        "evening": "Malam",
+        "confirm": "Mengonfirmasi"
+    },
+    "selectPaymentMethodScreen": {
+        "header": "Cara Pembayaran",
+        "cardHolderNameTitle": "Nama pemegang kartu",
+        "cardNumberTitle": "Nomor kartu",
+        "dateFormate": "DD/MM/YY",
+        "cvvTitle": "kode CVV",
+        "payNow": "Bayar sekarang"
+    },
+    "successPaymentScreen": {
+        "welcomeText": "Selamat Datang di Keluarga Kebugaran!\nKami senang Anda telah memutuskan untuk fit.",
+        "confirmation": "Konfirmasi pembayaran",
+        "confirmationDetail": "Email konfirmasi telah dikirimkan kepada Anda. Pakar kebugaran kami akan segera menghubungi Anda",
+        "dateAndTimeTitle": "Tanggal Waktu",
+        "subscription": "Langganan bulanan",
+        "backToHome": "Kembali ke halaman rumah"
+    },
+    "workoutScreen": {
+        "header": "Bekerja",
+        "todayVideo": "Video latihan hari ini",
+        "workoutCategoryTitle": "Kategori Latihan",
+        "workoutTitle": "Bekerja",
+        "userProgram": "Program Anda",
+        "trainer": "Pelatih",
+        "nextWorkoutTitle": "Video latihan baru",
+        "appointmentTitle": "Sebelum Anda memulai latihan ini, mohon ikuti saran dari pelatih.",
+        "bookAppintment": "Janji temu",
+        "skip": "melewati"
+    },
+    "workoutCategoryDetailScreen": {
+        "appointmentTitle": "Sebelum Anda memulai latihan ini, mohon ikuti saran dari pelatih.",
+        "bookAppintment": "Janji temu",
+        "skip": "melewati"
+    },
+    "videosScreen": {
+        "header": "tranning seluruh tubuh"
+    },
+    "userProgramScreen": {
+        "calories": "Kalori",
+        "equpiment": "Peralatan",
+        "netDuration": "Durasi bersih",
+        "min": "min",
+        "benefits": "Manfaat",
+        "sessionDetails": "Detail sesi",
+        "begin": "Mulai",
+        "upcomingVideo": "Video Mendatang",
+        "addInFav": "Ditambahkan di favorit",
+        "removeFromFav": "Dihapus dari Favorit"
+    },
+    "trainersScreen": {
+        "header": "Pelatih",
+        "trainer1Name": "Jems joy",
+        "trainer1Speciality": "Spesialis yoga",
+        "trainer2Name": "Katin Markin",
+        "trainer2Speciality": "pelatih kekuatan dan pengkondisian",
+        "trainer3Name": "Devid Scot",
+        "trainer3Speciality": "Ahli gizi makanan",
+        "trainer4Name": "Ket Patel",
+        "trainer4Speciality": "hai",
+        "trainer5Name": "Rohit joy",
+        "trainer5Speciality": "Spesialis yoga",
+        "trainer6Name": "Jems joy",
+        "trainer6Speciality": "pelatih kekuatan dan pengkondisian",
+        "trainer7Name": "Priti joy",
+        "trainer7Speciality": "pelatih kekuatan dan pengkondisian",
+        "trainer8Name": "Madhuri patel",
+        "trainer8Speciality": "pelatih kekuatan dan pengkondisian",
+        "years": "bertahun-tahun",
+        "experiance": "pengalaman"
+    },
+    "insightScreen": {
+        "header": "Wawasan",
+        "workout": "Bekerja",
+        "sleep": "Tidur",
+        "diet": "Diet",
+        "water": "Air",
+        "calories": "Kalori",
+        "burn": "Membakar",
+        "target": "Target",
+        "left": "Kiri",
+        "totalWorkout": "Latihan total",
+        "netDuration": "Durasi bersih",
+        "caloriesBurnTitle": "Statistik Pembakaran Kalori",
+        "daily": "Harian",
+        "week": "Pekan",
+        "month": "Bulan",
+        "minute": "Menit",
+        "kcal": "Kkal",
+        "woakUp": "bangun",
+        "wentToSleep": "Pergi tidur",
+        "reduced": "dikurangi",
+        "sleepTimeCompare": "waktu tidur bandingkan dengan minggu lalu",
+        "sleepDuration": "Total durasi tidur",
+        "sleepSatatistics": "Statistik Tidur",
+        "deep": "Dalam",
+        "awake": "Bangun",
+        "taken": "jam",
+        "protein": "Protein",
+        "fat": "Gemuk",
+        "carb": "karbohidrat",
+        "drunk": "Mabuk",
+        "addDrink": "Tambahkan minuman",
+        "waterConsume": "Statistik konsumsi air",
+        "waterConsumpation": "konsumsi air (ml)"
+    },
+    "dietScreen": {
+        "header": "Diet",
+        "todayPlanTitle": "Rencana diet hari ini",
+        "dietCategoryTitle": "Kategori diet",
+        "seeAll": "Lihat semua",
+        "favDietTitle": "Makanan favorit",
+        "addInFav": "Ditambahkan di favorit",
+        "removeFromFav": "Dihapus dari Favorit"
+    },
+    "dietCategoriesScreen": {
+        "header": "Kategori diet",
+        "addInFav": "Ditambahkan di favorit",
+        "removeFromFav": "Dihapus dari Favorit"
+    },
+    "mealCategoryVideoScreen": {
+        "protein": "Protein",
+        "fat": "Gemuk",
+        "calories": "Kalori",
+        "ingrediants": "Bahan",
+        "recipe": "resep",
+        "readMore": "Baca lebih banyak",
+        "readLess": "Baca lebih sedikit",
+        "addInFav": "Ditambahkan di favorit",
+        "removeFromFav": "Dihapus dari Favorit"
+    },
+    "dietCategoryDetailScreen": {
+        "day": "hari",
+        "plan": "rencana",
+        "totalDaysPlanTitle": "Pola makan vegan 10 hari",
+        "dayBig": "Hari"
+    },
+    "dietDetailScreen": {
+        "day": "Hari",
+        "protein": "Protein",
+        "fat": "Gemuk",
+        "calories": "Kalori"
+    },
+    "profileScreen": {
+        "header": "Profil",
+        "editProfile": "Sunting profil",
+        "favourite": "Favorit",
+        "progressReport": "Laporan perkembangan",
+        "notification": "Pemberitahuan",
+        "privacyPolicy": "Kebijakan pribadi",
+        "downloadVideo": "Unduh video",
+        "subscriptionPlan": "Paket Berlangganan",
+        "about": "Tentang",
+        "help": "Membantu",
+        "languages": "Bahasa",
+        "logout": "Keluar",
+        "cancel": "Membatalkan",
+        "logoutInfo": "Apakah Anda yakin ingin keluar?"
+    },
+    "progressReportScreen": {
+        "header": "Laporan perkembangan",
+        "completedGoal": "menyelesaikan tujuanmu"
+    },
+    "editProfileScreen": {
+        "header": "Sunting profil",
+        "name": "Nama",
+        "email": "ID email",
+        "phoneNo": "No Telepon",
+        "goal": "Tujuan Kebugaran",
+        "update": "Memperbarui",
+        "sheetTitle": "Ubah foto profil",
+        "cameraOption": "Pilih dari kamera",
+        "galleryOption": "Pilih dari galeri",
+        "remove": "Hapus gambar"
+    },
+    "privacyPolicyScreen": {
+        "header": "Kebijakan pribadi",
+        "notification": "Pemberitahuan",
+        "applicationUpdate": "Pembaruan aplikasi",
+        "themes": "Tema",
+        "darkMode": "Mode gelap",
+        "lightMode": "Mode cahaya"
+    },
+    "aboutScreen": {
+        "header": "Tentang",
+        "terms": "Syarat dan ketentuan",
+        "dataPolicy": "Kebijakan Data"
+    },
+    "favoriteScreen": {
+        "header": "Favorit",
+        "nothingInFav": "Tidak ada di Favorit",
+        "removeMessage": "Item dihapus dari Favorit."
+    },
+    "downloadsScreen": {
+        "header": "Unduh",
+        "nothingInDown": "Tidak Ada Dalam Unduhan",
+        "removeMessage": "Item dihapus dari Unduhan."
+    },
+    "helpScreen": {
+        "header": "Membantu",
+        "contact": "Berhubungan",
+        "helpDescription": "Jangan Ragu untuk menjatuhkan kami di bawah ini",
+        "enterName": "Masukkan nama Anda",
+        "enterEmail": "Masukkan id Email Anda",
+        "enterMessage": "Tulis Pesan Anda Disini",
+        "send": "Kirim",
+        "submitted": "Dikirim",
+        "submissionSuccess": "Permintaan Anda berhasil Dikirim, kami akan menghubungi Anda kembali.",
+        "ok": "Oke"
+    },
+    "userSubscriptionScreen": {
+        "header": "Rincian berlangganan",
+        "monthly": "Bulanan",
+        "quarterly": "Triwulanan",
+        "annual": "Tahunan",
+        "includes": "Termasuk",
+        "proceed": "Melanjutkan"
+    },
+    "languagesScreen": {
+        "header": "Bahasa",
+        "english": "English",
+        "hindi": "हिन्दी",
+        "indonesian": "Indonesian",
+        "chienese": "中国人",
+        "arabic": "عربي"
+    },
+    "calender": {
+        "jan": "Jan",
+        "feb": "Februari",
+        "mar": "Merusak",
+        "apr": "April",
+        "may": "Mungkin",
+        "jun": "Juni",
+        "jul": "Juli",
+        "aug": "Agustus",
+        "sep": "Sep",
+        "oct": "Oktober",
+        "nov": "November",
+        "dec": "Desember"
+    }
+}
